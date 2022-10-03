@@ -18,11 +18,11 @@ Como se converte de Decimal para binário em forma algorítmica:
 
 |Divisão|Resultado da divisão|Resto|
 |---|---|---|
-$18 \div 2$|$\color{blue}9$|$\color{green}0$
-$9 \div 2$|$\color{blue}4$|$\color{green}1$
-$4 \div 2$|$\color{blue}2$|$\color{green}0$
-$2 \div 2$|$\color{blue}1$|$\color{green}0$
-$1 \div 2$|$\color{blue}0$|$\color{green}1$
+$18 \div 2$|$\color{magenta}9$|$\color{green}0$
+$9 \div 2$|$\color{magenta}4$|$\color{green}1$
+$4 \div 2$|$\color{magenta}2$|$\color{green}0$
+$2 \div 2$|$\color{magenta}1$|$\color{green}0$
+$1 \div 2$|$\color{magenta}0$|$\color{green}1$
 
 4) Agora que temos os restos, o valor binário é a ordem dos restos de baixo para cima
 
