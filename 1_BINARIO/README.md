@@ -75,5 +75,3 @@ $\color{green}1 \color{white}\times \color{lightblue}2^{\color{red}0} = \color{g
 $(\color{green}1 \color{white}\times \color{lightblue}2^{\color{red}4}\color{while}) + (\color{green}1 \color{white}\times \color{lightblue}2^{\color{red}1}\color{white}) = (\color{green}1 \color{white}\times \color{lightblue}2 \times 2 \times 2 \times 2 \color{white}) + (\color{green}1 \color{white}\times \color{lightblue} 2 \color{white})$
 
 $(\color{green}1 \color{white}\times \color{lightblue}16 \color{white}) + (\color{lightblue}2 \color{white}) = 16 + 2 = \color{orange}18$
-
-Com isso, podemos ver que o binário $\color{orange}(10010)_2$ tem o valor decimal $\color{orange}(18)_{10}$.
